@@ -2,6 +2,6 @@
   "name": "kkhramkovtest",
   "website": "https://kkhramkov.dev",
   "description": "test operator",
-  "logo": "",
-  "twitter": ""
+  "logo": "https://raw.githubusercontent.com/gloomweaver/eigenlayer-operator/main/Ethereum%20Logo.png",
+  "twitter": "gloomweaver"
 }
